@@ -41,4 +41,4 @@ Tosuia (2025)
 
 ---
 
- If you find this useful, consider starring the repository on GitHub - https://github.com/Tosuia/windows-network-speed-monitor!
+ If you find this useful, consider starring the repository on GitHub - https://github.com/Tosuia/windows-network-speed-monitor
