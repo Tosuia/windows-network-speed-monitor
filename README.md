@@ -27,6 +27,13 @@ Displays your current upload and download speeds in a small floating window that
 The app will start immediately and display your current network speeds.  
 You can right-click the window to access the settings menu.
 
+Optional: Start Automatically with Windows
+
+If you’d like the app to run each time you log in:
+
+Press 'Win + R', type 'shell:startup', and press Enter.
+Copy a shortcut to 'MSMonitor.exe' into this folder
+
 ---
  
  Requirements
