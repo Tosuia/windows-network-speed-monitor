@@ -21,7 +21,7 @@ Displays your current upload and download speeds in a small floating window that
  Installation & Usage
 
 1. Download the latest release  - https://github.com/Tosuia/windows-network-speed-monitor.git
-2. Extract the '.zip' file anywhere you like.
+2. Extract the '.zip' file anywhere you like (for example, 'C:\NSMonitor').
 3. Run 'NSMonitor.exe'.
 
 The app will start immediately and display your current network speeds.  
