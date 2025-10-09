@@ -2,13 +2,13 @@
 Truly simple network speed monitor for Win 10/11
 
 A lightweight, drag-and-drop network speed monitor for Windows.  
-Displays your current upload and download speeds in a small floating window that you can move anywhere on the screen.
+Displays your current upload and download speeds in a small, movable floating window.
 
 ---
 
  Features
 
-- Live speed display — Shows upload and download speeds in MB/s.
+- Live speed display — Shows upload and download speeds in MB/s or Mb/s.
 - Drag & drop — Place the monitor anywhere on your screen (except the taskbar).
 - Customisable appearance  
   - Change background colour  
@@ -27,7 +27,7 @@ Displays your current upload and download speeds in a small floating window that
 The app will start immediately and display your current network speeds.  
 You can right-click the window to access the settings menu.
 
-Optional: Start Automatically with Windows
+Optional: Start automatically with Windows
 
 If you’d like the app to run each time you log in:
 
